@@ -6,3 +6,8 @@ This is a demo readme!
 
 Some more text in the file.
 
+
+## Local Development
+
+1. Open index.html in your browser.
+
